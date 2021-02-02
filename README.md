@@ -1,0 +1,2 @@
+# Article.EikonAPI.Python.BeneishMScoreAndAltmanZScoreForAnalyzingStockReturnsOfSP500Companies
+This article aims to study the stock returns of companies that are likely to have manipulated their earnings and that are in a difficult financial situation (higher probability of bankruptcy). To that aim, the Beneish M-Score and the Altman Z-Score models are employed for the companies listed in the S&amp;P500 using the data obtained from Refinitiv's Eikon API from 1995 to 2020.
