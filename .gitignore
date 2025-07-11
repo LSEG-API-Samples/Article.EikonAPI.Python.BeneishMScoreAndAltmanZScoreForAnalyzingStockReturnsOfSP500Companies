@@ -1,0 +1,5 @@
+ld/
+venv/
+.vscode/
+lseg-data.devrel.config.json
+test.ipynb
